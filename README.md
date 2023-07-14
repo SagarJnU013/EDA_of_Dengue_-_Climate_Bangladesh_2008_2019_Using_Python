@@ -1,0 +1,2 @@
+# EDA_of_Dengue_-_Climate_Bangladesh_2008_2019_Using_Python
+📊 EDA Analysis of Dengue and Climate in Bangladesh (2008-2019) 🌡️💧☔  I am excited to share my exploratory data analysis (EDA) findings on the relationship between dengue cases and climate factors in Bangladesh. The dataset I used covers the period from 2008 to 2019 and includes information on temperature, humidity, rainfall, and dengue cases.
